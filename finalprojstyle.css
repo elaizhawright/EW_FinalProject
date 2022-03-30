@@ -1,0 +1,142 @@
+body {
+    background-image:url(Spaimage.jpeg);
+    background-repeat: repeat;
+    background-size: 1500px;
+    
+}
+
+#container {
+    background-color:palevioletred;
+    padding: 2%;
+    margin: auto;
+    width: 80%;
+}
+
+#header {
+    background-color: yellow;
+    padding: 2%;
+    height: 1200px;
+}
+
+#main {
+    background-color: white;
+    height: 400px;
+}
+
+#footer {
+    background-color: ;
+    padding: 5%;
+    text-align: center;
+}
+
+#sidebar {
+    background-color: lightpink;
+    width: 30%;
+    height: 900px;
+    float: left;
+    text-align: center;
+}
+
+#article ,#Yoga, #meditation{
+    background-color: palegoldenrod;
+    width: 70%;
+     height: 900px;
+    float: right;
+    position: relative;
+    
+}
+img{
+    height: 70px;
+    text-align: center;
+    
+}
+p{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    text-align: center;
+    color: floralwhite;
+        
+}
+
+#Yogaheading{
+    color: black;
+    text-align: center;
+}
+#Videocontainer{
+    text-align: center;
+    }
+}
+#meditation p, #yogaparagraph, #footerparagraph, #footeremail{
+    text-align: center;
+}
+#Evening{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+}
+#meditaionheading{
+    color: black;
+    text-align: center;
+}
+#links{
+    width: 100%; background-color: darkorange;
+position:absolute;
+    bottom: 0;
+    left: %;
+}
+#content{
+    color: brown;
+    font-size: 40px;
+    font-style: italic;
+}
+#listofthings{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+#yogaparagraph{
+    text-align: center;
+    color: forestgreen;
+}
+#yogabenefits{
+    text-align: center;
+    font-weight: bolder;
+    color: brown;
+    display: block;
+    margin-left: auto;
+    margin-left: auto;
+}
+#even{
+    text-align: center;
+}
+#use{
+    text-align: center;
+}
+#mindfulstuff{
+    text-align: center;
+    color: brown;
+    font-weight: bolder;
+}
+#label1{
+    text-align: center;
+}
+#label2{
+    text-align: center;
+}
+#submit{
+    text-align: center;
+}
+#results{
+    text-align: center;
+}
+#checklist{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
